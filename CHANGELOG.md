@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.97.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.96.0...v0.97.0) (2024-09-30)
+
+
+### 🎉 **What's new:**
+
+* Handle all Task parameters in SDK ([#3103](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/3103)) ([08ae072](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/08ae0729acea25293d4143e9f70f77fe4bfbd29e))
+* Tasks v1 readiness - SDK part ([#3086](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/3086)) ([0a77383](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/0a77383ff51a13be40db72f4d0462fb92d0a4fbd))
+* Upgrade stream sdk ([#3105](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/3105)) ([ad5fa11](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/ad5fa113da84a2a1aeaa275643cd586126e6f603))
+
 ## [0.96.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.95.0...v0.96.0) (2024-09-18)
 
 
